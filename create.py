@@ -263,9 +263,9 @@ print '''
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1;url=https://tools.wmflabs.org/mavrikant/bekleyen/">
+        <meta http-equiv="refresh" content="1;url=https://tools.wmflabs.org/mavrikant/DogrulamaIstatistikleri/">
         <script type="text/javascript">
-            window.location.href = "https://tools.wmflabs.org/mavrikant/Doğrulamaİstatistikleri/"
+            window.location.href = "https://tools.wmflabs.org/mavrikant/DogrulamaIstatistikleri/"
         </script>
         <title>Güncellendi! Geri dönülüyor.</title>
     </head>
