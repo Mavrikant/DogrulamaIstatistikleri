@@ -1,7 +1,6 @@
 # coding=utf-8
 import requests
 
-print 'test'
 indexfile='''
 <!DOCTYPE HTML>
 <html>
