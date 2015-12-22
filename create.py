@@ -1,7 +1,8 @@
 # coding=utf-8
 import requests
-indexfile='''
 
+print 'test'
+indexfile='''
 <!DOCTYPE HTML>
 <html>
 	<head>
